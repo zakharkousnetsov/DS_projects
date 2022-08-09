@@ -1,2 +1,4 @@
 # yandex_practikum_projects
-Completed yandex practicum educational Data Science projects
+В репозитории содержатся проекты выполненные в рамках обучения по Data Science в Яндекс Практикуме
+
+#Анализ музыкальных предпочтений жителей Москвы и Санкт-Петербурга
