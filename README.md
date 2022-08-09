@@ -7,29 +7,30 @@
 # Исследование надежности заёмщиков (02_borrowers_reliability)
 Рассматривается влияние семейного положения и прочих социальных факторов на факт погашение кредита в срок. Цели кредита систематизируются. Все клиенты банка классифицируются и для каждого кластера определяется риск просрочки платежа
 
-# (03_real_estate_research)
+# Анализ рынка недвижимости Санкт-Петербурга (03_real_estate_research)
 
-# (04_telecom_tariff_analysys)
 
-# (05_computer_games_market_research)
+# Определение выгодного тарифа для телеком-компании (04_telecom_tariff_analysys)
 
-# (06_telecom_customers_classification)
+# Анализ и прогнозирование трендов рынка компьютерных игр (05_computer_games_market_research)
 
-# (07_clients_churn)
+# Классификация пользователей телеком-компании (06_telecom_customers_classification)
 
-# (08_oil_mining_region_exploration)
+# Прогнозирование оттока клиентов банка (07_clients_churn)
 
-# (09_gold_recovery_coefficient_prediction)
+# Выбор локации для бурения скважины (08_oil_mining_region_exploration)
 
-# (10_customers_personal_data_protection)
+# Предсказание коэффициента восстановления золота в технологическом процессе (09_gold_recovery_coefficient_prediction)
 
-# (11_vehicle_price_prediction)
+# Создание алгоритма шифрования персональных данных клиентов (10_customers_personal_data_protection)
 
-# (12_taxi_ordering_prediction)
+# Определение цены автомобиля (11_vehicle_price_prediction)
 
-# (13_toxic_comments_prediction)
+# Предсказание интенсивности заказов такси (12_taxi_ordering_prediction)
 
-# (14_customers_age_prediction)
+# Выявление токсиных комментариев (13_toxic_comments_prediction)
 
-# (15_metal_alloy_prediction)
+# Определение возраста покупателей по фотографии (14_customers_age_prediction)
+
+# Предсказание теммпературы сплава в технологическом процессе на металлургическом производстве (15_metal_alloy_prediction)
 
