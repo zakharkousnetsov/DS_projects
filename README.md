@@ -1,4 +1,4 @@
-# yandex_practikum_projects
+## yandex_practikum_projects
 В репозитории содержатся проекты, выполненные в рамках обучения по Data Science в Яндекс Практикуме
 
 # Анализ музыкальных предпочтений жителей Москвы и Санкт-Петербурга (01_big_cities_music)
