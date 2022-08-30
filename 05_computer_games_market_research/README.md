@@ -7,7 +7,7 @@
 
 
 
-**Стек технологий:** pandas
+**Стек технологий:** pandas, scipy, matplotlib, seaborn
 
 
 ## старое описание
